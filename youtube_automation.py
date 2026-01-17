@@ -18,8 +18,7 @@ from googleapiclient.http import MediaFileUpload
 # =========================
 # CONFIG (SET THESE)
 # =========================
-OPENAI_API_KEY = "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"
-ELEVEN_API_KEY = "sk_109d154cc7ee93b814a98cd032003be19829ad5dd0c4dc18"
+
 VOICE_ID = "EXAVITQu4vr4xnSDxMaL"  # Rachel
 
 OUTPUT_DIR = "output"
